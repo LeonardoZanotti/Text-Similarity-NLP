@@ -1,4 +1,4 @@
-# Text Similiarity NLP
+# Text Similarity NLP
 Calculating Text Similarity in Python with NLP
 
 ## Setup
